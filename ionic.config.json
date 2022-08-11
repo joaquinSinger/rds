@@ -1,0 +1,7 @@
+{
+  "name": "rds",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

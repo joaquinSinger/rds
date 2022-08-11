@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "rds",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
